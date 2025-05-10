@@ -6,6 +6,12 @@
     "url": "https://github.com/Lxxxxxxy"
   },
   {
+    "name": "博客园",
+    "icon": "/images/icon/cnblogs.png",
+    "tip": "博客园",
+    "url": "https://www.cnblogs.com/lxxxxxxy"
+  },
+  {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
@@ -16,5 +22,11 @@
     "icon": "/images/icon/v2ex.png",
     "tip": "v2ex",
     "url": "https://www.v2ex.com/member/ShirOvO"
+  },
+  {
+    "name": "instagram",
+    "icon": "/images/icon/instagram.png",
+    "tip": "instagram",
+    "url": "https://www.instagram.com/lixynpe"
   }
 ]

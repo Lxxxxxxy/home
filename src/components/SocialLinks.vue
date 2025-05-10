@@ -10,7 +10,7 @@
         @mouseenter="socialTip = item.tip"
         @mouseleave="socialTip = '通过这里联系我吧'"
       >
-        <img class="icon" :src="item.icon" height="24" />
+        <img class="icon" :src="item.icon" height="44" />
       </a>
     </div>
     <span class="tip">{{ socialTip }}</span>
@@ -32,7 +32,7 @@ const socialTip = ref("通过这里联系我吧");
   justify-content: space-between;
   max-width: 460px;
   width: 100%;
-  height: 42px;
+  height: 55px;
   background-color: transparent;
   border-radius: 6px;
   backdrop-filter: blur(0);

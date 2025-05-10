@@ -34,6 +34,7 @@ import { Icon } from "@vicons/utils";
 import { QuoteLeft, QuoteRight } from "@vicons/fa";
 import { Error } from "@icon-park/vue-next";
 import { mainStore } from "@/store";
+
 const store = mainStore();
 
 // 主页站点logo
@@ -103,7 +104,7 @@ watch(
       width: 100%;
       padding-left: 22px;
       transform: translateY(-8px);
-      font-family: "Pacifico-Regular";
+      font-family: "Pacifico";
 
       .bg {
         font-size: 5rem;
@@ -152,7 +153,7 @@ watch(
 
         p {
           &:nth-of-type(1) {
-            font-family: "Pacifico-Regular";
+            font-family: "Pacifico";
           }
         }
       }
