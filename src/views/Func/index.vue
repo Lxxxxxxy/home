@@ -6,8 +6,8 @@
         <div class="left">
           <Hitokoto />
           <Music v-if="playerHasId" />
-        </div>
-      </el-col>
+        </div> </el-col
+      >bwgs
       <el-col :span="12">
         <div class="right cards">
           <div class="time">
